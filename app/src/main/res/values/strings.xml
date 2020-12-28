@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Java_mobile</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">CONNEXION</string>
+    <string name="sign">INSCRIPTION</string>
+    <string name="signuphere">Pas encore un compte ? INSCRIVEZ-VOUS ICI</string>
+    <string name="loginhere">Possedez-vous un compte ? CONNECTEZ-VOUS ICI</string>
+    <string name="fullname">Nom</string>
+    <string name="email">Email</string>
+</resources>
